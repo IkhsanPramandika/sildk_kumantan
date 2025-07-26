@@ -1,3 +1,4 @@
+
 # Website Desa Kumantan
 
 Website resmi Desa Kumantan yang menyediakan informasi dan layanan digital untuk masyarakat desa.
@@ -153,3 +154,6 @@ php artisan view:cache
 - Website: [desakumantan.id](https://desakumantan.id)
 - Email: admin@desakumantan.id
 - Alamat: Desa Kumantan, Kecamatan Kumantan, Kabupaten Bengkalis, Riau
+=======
+# sildk_kumantan
+>>>>>>> 501d5d0f5b2f2479e5c70a7b7556bd0580f10736
